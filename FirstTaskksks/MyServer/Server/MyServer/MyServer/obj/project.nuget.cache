@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMdiuEj8UyJENze5uMTDbmqe8vlM1WxE1E5l6tE7GtLk0SgPXQ178ZjvE7kLIW7onlbMuZevIr30VlAq3U3jXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Рабочий стол\\MyServer\\Server\\MyServer\\MyServer\\MyServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
